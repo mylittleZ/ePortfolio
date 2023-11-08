@@ -10,7 +10,7 @@
 
 ## Education							       		
 - MEng., MTIS	| University of Victoria (_Present_)	 			        		
-- B.S., Computer Science | South-Central Minzu University (_June 2020_)
+- B.S., CS | South-Central Minzu University (_June 2020_)
 
 
 ## Work Experience
