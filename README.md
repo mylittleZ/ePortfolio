@@ -9,8 +9,8 @@
 - **Project Management:** Scrum Master experience, Agile methodologies
 
 ## Education							       		
-- MEng., MTIS	| University of Victoria (_Present_)	 			        		
-- B.S., CS | South-Central Minzu University (_June 2020_)
+- MEng., MTIS	 University of Victoria (_Present_)	 			        		
+- B.S., Computer Science  South-Central Minzu University (_June 2020_)
 
 
 ## Work Experience
@@ -21,4 +21,10 @@
 - Modernized legacy systems, completing front/back-end separation for multiple projects.
 - Designed JD Logistics API documentation for efficient large-scale data display.
 - Improved engineering infrastructure, significantly reducing project build times.
+- 
+**Front-end Engineer Intern @ Kingsoft Office (_April 2019 - July 201_)**
+- Developed for WPS Office, a leading solution with over **600M users**.
+- Constructed modules/websites with React, AJAX, Webpack.
+- Optimized WeChat Mini's loading by implementing pre-loading strategies, reducing LCP from 8s to 2s.
+- Enhanced responsiveness using function throttling**, achieving 100 FID.
 
