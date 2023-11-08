@@ -10,7 +10,7 @@
 
 ## Education							       		
 - MEng., MTIS	|University of Victoria (_Present_)	 			        		
-- B.S., Computer Science |South-Central Minzu University (_June 2020_)
+- B.S., CS |South-Central Minzu University (_June 2020_)
 
 
 ## Work Experience
@@ -22,9 +22,17 @@
 - Designed JD Logistics API documentation for efficient large-scale data display.
 - Improved engineering infrastructure, significantly reducing project build times.
 
-**Front-end Engineer Intern @ Kingsoft Office (_April 2019 - July 201_)**
-- Developed for WPS Office, a leading solution with over **600M users**.
+**Front-end Engineer Intern @ Kingsoft Office (_April 2019 - July 2019_)**
+- Developed for WPS Office, a leading solution with over 600M users.
 - Constructed modules/websites with React, AJAX, Webpack.
 - Optimized WeChat Mini's loading by implementing pre-loading strategies, reducing LCP from 8s to 2s.
 - Enhanced responsiveness using function throttling**, achieving 100 FID.
 
+## Projects
+### Video-face-traking
+[Online Demo](http://mylittlez.github.io/video-face-traking/)
+- Using **JavaScript-based Vue.js Framework** built the project, based on **Nodejs** development using the face-api.js library achieved face recognition, face-api.js using **TensorFlow.js** machine learning library for model training 
+- Achieved video face tracking, detection of expression, age, gender and facial contours, and can detect single face or all
+faces in video
+
+![video-face-traking](https://user-images.githubusercontent.com/30174451/205483043-cd8c89f2-37e2-4f94-aea5-f7d09e339c49.png)
