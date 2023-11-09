@@ -1,7 +1,7 @@
 # Software Engineer
 
 ## Professional Summary
-As a dedicated and skilled Software Engineer with a passion for innovative solutions and a track record of success at JD.COM and Kingsoft Office, I specialize in front-end development with proficiency in a variety of programming languages and technologies, including JavaScript, Node.js and Java. My experience ranges from enhancing security features for large-scale systems to developing engaging, user-centric web modules and interfaces. I am currently advancing my expertise with a Master’s in Telecommunication & Information Security at the University of Victoria, aiming to integrate cutting-edge security practices into software development. I seek to leverage my deep understanding of web protocols, information Security to contribute to and lead projects that push the boundaries of technology and user experience.
+As a Software Engineer with experience at JD.COM and Kingsoft Office, I focus on front-end development using JavaScript, Node.js, and Java. I've improved security for large systems and created user-friendly web interfaces. Currently, I'm pursuing a Master's in Telecommunication & Information Security at the University of Victoria to merge advanced security with software development. I aim to lead projects that enhance technology and user experience.
 
 ## Technical Skills
 - **Programming Languages:** JavaScript, Vue.js, Nodejs, Python, Java, HTML/CSS
@@ -54,3 +54,10 @@ button to control the switching of the animation scene and the extraction of the
 ![Transform-3d-card2](https://user-images.githubusercontent.com/30174451/281539849-9c0e9879-e94d-4497-97a6-c6dfcca1c8ba.png)
 
 ![Transform-3d-card3](https://user-images.githubusercontent.com/30174451/281540057-8d9d985c-4d75-462f-8101-1d7de31601a6.png)
+
+
+## Contact Me
+- LinkedIn: [chenyang-zhao-208751293](https://linkedin.com/in/chenyang-zhao-208751293)
+- Email: [chenyangzhao97@gmail.com](mailto:chenyangzhao97@gmail.com)
+- GitHub: [mylittleZ](https://github.com/mylittleZ)
+
