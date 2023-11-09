@@ -1,4 +1,8 @@
 # Software Engineer
+
+## Professional Summary
+As a dedicated and skilled Software Engineer with a passion for innovative solutions and a track record of success at JD.COM and Kingsoft Office, I specialize in front-end development with proficiency in a variety of programming languages and technologies, including JavaScript, Node.js and Java. My experience ranges from enhancing security features for large-scale systems to developing engaging, user-centric web modules and interfaces. I am currently advancing my expertise with a Master’s in Telecommunication & Information Security at the University of Victoria, aiming to integrate cutting-edge security practices into software development. I seek to leverage my deep understanding of web protocols, information Security to contribute to and lead projects that push the boundaries of technology and user experience.
+
 ## Technical Skills
 - **Programming Languages:** JavaScript, Vue.js, Nodejs, Python, Java, HTML/CSS
 - **Version Control:** Git
