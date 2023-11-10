@@ -10,7 +10,7 @@ As a Software Engineer with experience at JD.COM and Kingsoft Office, I focus on
 - **Database Management:** MySQL, MongoDB
 - **Continuous Integration & Deployment:** CI/CD pipelines
 - **Web Protocols:** HTTP, RESTful APIs
-- **Project Management:** Scrum Master experience, Agile methodologies
+- **Project Management:** Scrum Master experience
 
 ## Education							       		
 - MEng., MTIS	|University of Victoria (_Present_)	 			        		
