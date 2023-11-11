@@ -13,9 +13,8 @@ As a Software Engineer with experience at JD.COM and Kingsoft Office, I focus on
 - **Project Management:** Scrum Master experience
 
 ## Education							       		
-### MEng., MTIS	| University of Victoria (_Present_)	 			        		
-### B.S., Computer Science | South-Central Minzu University (_June 2020_)
-
+- MEng., MTIS	| University of Victoria (_Present_)	 			        		
+- B.S., Computer Science | South-Central Minzu University (_2020_)
 
 ## Work Experience
 **Front-end Engineer @ JD.COM (_July 2020 - August 2023_)**
