@@ -54,8 +54,18 @@ button to control the switching of the animation scene and the extraction of the
 
 ![Transform-3d-card3](https://user-images.githubusercontent.com/30174451/281540057-8d9d985c-4d75-462f-8101-1d7de31601a6.png)
 
+## Professional Reflection
 
-## Contact Me
+Reflecting on my journey as a Software Engineer, I see a path marked by continuous growth and an evolving understanding of technology's role in shaping user experiences. My tenure at JD.COM and Kingsoft Office was more than just a professional engagement; it was a crucible where my skills in front-end development and security were honed. Each project, from enhancing JD's SSO security to optimizing WeChat Mini's loading times, was a lesson in balancing technical prowess with user-centric design.
+
+Pursuing my Master's in Telecommunication & Information Security at the University of Victoria opened new vistas in integrating advanced security protocols within software development. It's not just about building robust systems; it's about foreseeing potential security challenges and preemptively addressing them in the development phase.
+
+My projects, like video-face-tracking and Transform-3d-card, were not merely technical exercises but explorations into how software interacts with users in dynamic, real-world scenarios. These experiences have been instrumental in shaping my aspiration to lead projects that not only push technological boundaries but also enhance user interaction and satisfaction.
+
+In this journey, I've learned that being a software engineer is not just about mastering programming languages or frameworks; it's about a mindset of lifelong learning, adaptability, and a commitment to marrying technical expertise with a deep understanding of user needs. Looking forward, I am excited to apply these insights and experiences in new, challenging environments, continuing to grow both as a professional and as an innovator in the field. Lastly, I want to say: enjoy every journey.
+
+
+## Contact Information
 - LinkedIn: [chenyang-zhao-208751293](https://linkedin.com/in/chenyang-zhao-208751293)
 - Email: [chenyangzhao97@gmail.com](mailto:chenyangzhao97@gmail.com)
 - GitHub: [mylittleZ](https://github.com/mylittleZ)
