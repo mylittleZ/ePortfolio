@@ -19,7 +19,8 @@ As a Software Engineer with experience at JD.COM and Kingsoft Office, I focus on
 
 ## Work Experience
 **Software Engineer @ JD.COM (_July 2020 - August 2023_)**
-- Tech Stack: _JavaScript, Java, Spring Boot, MySQL, Vue.js, Node.js, Echarts, Vite, Nginx, CI/CD pipelines_
+
+Tech Stack:  _JavaScript, Java, Spring Boot, MySQL, Vue.js, Node.js, Echarts, Vite, Nginx, CI/CD pipelines_
 - Developed high-performance, scalable systems end-to-end, achieving **780K+** daily cloud prints and servicing **2K+** businesses, significantly reducing integration costs by standardizing supply chain interfaces for global partners
 - Led a team of **4** to architect and deploy a scalable solution for overseas logistics, integrating Vue I18n and **Nginx** for seamless internationalization and multi-language UI adaptability across **3** major countries, ensuring system stability
 - Enhanced the login systems across multiple platforms by upgrading the **SSO** system with dual-layer security measures, ensuring robust domain-specific cookie integrity, reducing security breach incidents by **75%**, and boosting user safety
@@ -30,7 +31,8 @@ As a Software Engineer with experience at JD.COM and Kingsoft Office, I focus on
 - Encapsulated **10+** reusable UI components, enhancing development efficiency by 80% and adopted by **5** product teams
 
 **Front-end Engineer Intern @ Kingsoft Office (_April 2019 - July 2019_)**
-- Tech Stack:_React, TypeScript, AJAX, Webpack, RESTful API_
+
+Tech Stack: _React, TypeScript, AJAX, Webpack, RESTful API_
 - Developed critical modules for WPS Office with over **600 million** users, leveraging React for dynamic UI development and **AJAX** for robust API communications, significantly enhancing front-end to back-end data flow and user interactivity
 - Optimized system responsiveness and stability through **API throttling**, reducing First Input Delay to **100ms**
 - Enhanced WeChat mini-program performance by implementing advanced preloading and sub-packaging techniques, reducing Largest Content Paint from **8 to 2** seconds and significantly reducing latency and enhancing user experience
@@ -38,7 +40,8 @@ As a Software Engineer with experience at JD.COM and Kingsoft Office, I focus on
 ## Projects
 ### OpenDocAdminPlatform
 [Online Demo](https://github.com/mylittleZ/OpenDocAdminPlatform)
-- Tech Stack:_Java, Spring Boot, MyBatis, AWS S3, JWT, MySQL, Docker_
+
+Tech Stack: _Java, Spring Boot, MyBatis, AWS S3, JWT, MySQL, Docker_
 - Developed advanced document categorization and management, featuring custom validations and conditional pagination
 - Integrated **AWS S3** and leveraged AWS EC2, Elastic Beanstalk, and RDS for scalable cloud storage and deployment
 - Implemented user authentication with **JWT**, streamlining access and optimizing performance with ThreadLocal
