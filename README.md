@@ -19,37 +19,38 @@ As a Software Engineer with experience at JD.COM and Kingsoft Office, I focus on
 
 ## Work Experience
 **Software Engineer @ JD.COM (_July 2020 - August 2023_)**
-- Developed high-performance, scalable systems end-to-end, achieving 780K+ daily cloud prints and servicing 2K+ businesses, significantly reducing integration costs by standardizing supply chain interfaces for global partners
-- Led a team of 4 to architect and deploy a scalable solution for overseas logistics, integrating Vue I18n and Nginx for seamless internationalization and multi-language UI adaptability across 3 major countries, ensuring system stability
-- Enhanced the login systems across multiple platforms by upgrading the SSO system with dual-layer security measures, ensuring robust domain-specific cookie integrity, reducing security breach incidents by 75%, and boosting user safety
-- Employed CryptoJS and JSEncrypt for encryption on-transit, safeguarding user data during interface transactions
-- Designed and implemented a high-performance Vue.js-based tree-structured virtual table, optimizing API documentation loading to reduce browser freeze from 2,000 items to smoothly handling 100K+ data items
-- Developed a Node.js script to automate translation data preprocessing and bilingual JSON mapping file generation, leveraging fs, path, and readline APIs for increased engineering efficiency by 99% and accuracy in text replacement
-- Migrated 4 systems by leading the service re-architecture, achieving the service decoupling with independent scaling
-- Encapsulated 10+ reusable UI components, enhancing development efficiency by 80% and adopted by 5 product teams
+- Developed high-performance, scalable systems end-to-end, achieving **780K+** daily cloud prints and servicing **2K+** businesses, significantly reducing integration costs by standardizing supply chain interfaces for global partners
+- Led a team of **4** to architect and deploy a scalable solution for overseas logistics, integrating Vue I18n and **Nginx** for seamless internationalization and multi-language UI adaptability across **3** major countries, ensuring system stability
+- Enhanced the login systems across multiple platforms by upgrading the **SSO** system with dual-layer security measures, ensuring robust domain-specific cookie integrity, reducing security breach incidents by **75%**, and boosting user safety
+- Employed **CryptoJS** and JSEncrypt for encryption on-transit, safeguarding user data during interface transactions
+- Designed and implemented a high-performance **Vue.js**-based tree-structured virtual table, optimizing API documentation loading to reduce browser freeze from **2,000** items to smoothly handling **100K+** data items
+- Developed a **Node.js** script to automate translation data preprocessing and bilingual JSON mapping file generation, leveraging fs, path, and readline APIs for increased engineering efficiency by **99%** and accuracy in text replacement
+- Migrated **4** systems by leading the service re-architecture, achieving the service decoupling with independent scaling
+- Encapsulated **10+** reusable UI components, enhancing development efficiency by 80% and adopted by **5** product teams
 
 **Front-end Engineer Intern @ Kingsoft Office (_April 2019 - July 2019_)**
-- Developed critical modules for WPS Office with over 600 million users, leveraging React for dynamic UI development and AJAX for robust API communications, significantly enhancing front-end to back-end data flow and user interactivity
-- Optimized system responsiveness and stability through API throttling, reducing First Input Delay to 100ms
-- Enhanced WeChat mini-program performance by implementing advanced preloading and sub-packaging techniques, reducing Largest Content Paint from 8 to 2 seconds and significantly reducing latency and enhancing user experience
+- Developed critical modules for WPS Office with over **600 million** users, leveraging React for dynamic UI development and **AJAX** for robust API communications, significantly enhancing front-end to back-end data flow and user interactivity
+- Optimized system responsiveness and stability through **API throttling**, reducing First Input Delay to **100ms**
+- Enhanced WeChat mini-program performance by implementing advanced preloading and sub-packaging techniques, reducing Largest Content Paint from **8 to 2** seconds and significantly reducing latency and enhancing user experience
 
 ## Projects
 ### OpenDocAdminPlatform
 [Online Demo](https://github.com/mylittleZ/OpenDocAdminPlatform)
 - Developed advanced document categorization and management, featuring custom validations and conditional pagination
-- Integrated AWS S3 and leveraged AWS EC2, Elastic Beanstalk, and RDS for scalable cloud storage and deployment
-- Implemented user authentication with JWT, streamlining access and optimizing performance with ThreadLocal
+- Integrated **AWS S3** and leveraged AWS EC2, Elastic Beanstalk, and RDS for scalable cloud storage and deployment
+- Implemented user authentication with **JWT**, streamlining access and optimizing performance with ThreadLocal
 
 ### ProShop - Ecommerce platform
 [Online Demo](https://github.com/mylittleZ/proshop) 
+
 live demo click here: [Online Demo](https://proshop-25vr.onrender.com)
-- Built an E-commerce platform with product display, rating/review system, and admin pages with JWT authentication
-- Engineered a comprehensive fuzzy search feature and collected rankings to display a top popularity products carousel
+- Built an E-commerce platform with product display, rating/review system, and admin pages with **JWT** authentication
+- Engineered a comprehensive **fuzzy search** feature and collected rankings to display a top popularity products carousel
 - Developed a featured shopping cart page with a checkout process integrating PayPal and credit card payment methods
-- ![image](https://github.com/mylittleZ/ePortfolio/assets/30174451/2a20bfe1-3c2b-4524-9a48-0cc324244713)
-- ![image](https://github.com/mylittleZ/ePortfolio/assets/30174451/1670cdb2-07a6-4018-b356-0065c74647f9)
-- ![image](https://github.com/mylittleZ/ePortfolio/assets/30174451/9c1cb527-4426-467c-b818-4a2aed598021)
-- ![image](https://github.com/mylittleZ/ePortfolio/assets/30174451/d1efbf5e-0f74-443f-8be3-4807f7b4df70)
+ ![image](https://github.com/mylittleZ/ePortfolio/assets/30174451/2a20bfe1-3c2b-4524-9a48-0cc324244713)
+ ![image](https://github.com/mylittleZ/ePortfolio/assets/30174451/1670cdb2-07a6-4018-b356-0065c74647f9)
+ ![image](https://github.com/mylittleZ/ePortfolio/assets/30174451/9c1cb527-4426-467c-b818-4a2aed598021)
+ ![image](https://github.com/mylittleZ/ePortfolio/assets/30174451/d1efbf5e-0f74-443f-8be3-4807f7b4df70)
 
 
 
