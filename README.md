@@ -41,7 +41,8 @@ As a Software Engineer with experience at JD.COM and Kingsoft Office, I focus on
 - Implemented user authentication with JWT, streamlining access and optimizing performance with ThreadLocal
 
 ### ProShop - Ecommerce platform
-[Online Demo](https://github.com/mylittleZ/proshop) live demo click here: /[Online Demo](https://proshop-25vr.onrender.com)
+[Online Demo](https://github.com/mylittleZ/proshop) 
+live demo click here: [Online Demo](https://proshop-25vr.onrender.com)
 - Built an E-commerce platform with product display, rating/review system, and admin pages with JWT authentication
 - Engineered a comprehensive fuzzy search feature and collected rankings to display a top popularity products carousel
 - Developed a featured shopping cart page with a checkout process integrating PayPal and credit card payment methods
