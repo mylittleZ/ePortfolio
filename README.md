@@ -4,7 +4,7 @@
 As a Software Engineer with experience at JD.COM and Kingsoft Office, I focus on front-end development using JavaScript, Node.js, and Java. I've improved security for large systems and created user-friendly web interfaces. Currently, I'm pursuing a Master's in Telecommunication & Information Security at the University of Victoria to merge advanced security with software development.
 
 ## Technical Skills
-- **Programming Languages:** Java, JavaScript, Python, SQL, PHP, TypeScript, Node.js, HTML/CSS
+- **Programming Languages:** Java, JavaScript, Python, SQL, TypeScript, Node.js, HTML/CSS
 - **Technologies:** Spring Boot, Vue.js, React.js, Webpack, Vite, Linux
 - **Tools:**: AWS Service, Git, Postman, MySQLWorkbench
 - **Web Servers:** Nginx
